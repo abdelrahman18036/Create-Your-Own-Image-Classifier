@@ -1,0 +1,6 @@
+# Create-your-own-Image-Classifier
+Deep Learning
+
+## Image Classifier
+
+AI algorithms can be applied to regular applications more and more. You may want an image classificator to be applied to the smartphone app, for example. To this end, you will use a profound learning model that is trained in the overall application architecture on hundreds of thousands of photos. These types of models are used as standard parts of applications for a significant part of software development in the future. You will train an image classifier in this project to detect different floral species. In a phone application that tells you the name of the flower your camera is looking at, you can imagine anything like this. Practically, you can train and export this classifier for use in your application. This 102-category floral dataset is to be used. This is an attempt to construct an application for which any number of labelled images can be educated. Your network is here Be flowers studying and end up as an application for a command-line.
