@@ -51,7 +51,6 @@ struct = args.arch
 hidden_units = args.hidden_units
 power = args.gpu
 epochs = args.epochs
-dropout = args.dropout
 
 
 # This method loads and tunes in a model
