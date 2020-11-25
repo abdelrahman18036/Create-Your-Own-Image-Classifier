@@ -24,8 +24,6 @@ parser.add_argument('--gpu', action='store_true',
                     help='Using GPU if available')
 
 (args, _) = parser.parse_known_args()
-path_image = args.input
-number_of_outputs = args.top_k
 device = args.gpu
 path = args.checkpoint
 
